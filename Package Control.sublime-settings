@@ -1,0 +1,27 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"Http Requester",
+		"jQuery Snippets pack",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PHP-Twig",
+		"PHPUnit Completions",
+		"PlainTasks",
+		"Prefixr",
+		"SideBarEnhancements",
+		"sublime-symfony",
+		"SublimeLinter",
+		"Symfony2 Snippets",
+		"SymfonyCommander",
+		"Twig",
+		"Xdebug",
+		"ZenCoding"
+	]
+}
