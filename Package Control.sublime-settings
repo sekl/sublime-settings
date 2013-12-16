@@ -23,6 +23,7 @@
 		"SymfonyCommander",
 		"Twig",
 		"Xdebug Client",
+		"Xdebug",
 		"ZenCoding"
 	]
 }

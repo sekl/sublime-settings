@@ -9,7 +9,10 @@
 		"ZenCoding"
 	],
 	"word_wrap": "true",
+	"translate_tabs_to_spaces": true,
+	"tab_size": 2,
 	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
 	"auto_complete_commit_on_tab": true,
 	"hot_exit": false,
 	"remember_open_files": false
