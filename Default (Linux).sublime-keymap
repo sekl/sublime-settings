@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+g"], "command": "find_all_under" },
+	{ "keys": ["ctrl+alt+n"], "command": "advanced_new_file"},
+	{ "keys": ["ctrl+shift+w"], "command": "none"}
+]
