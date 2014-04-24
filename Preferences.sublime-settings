@@ -9,7 +9,10 @@
 	[
 		"CSSLint",
 		"Vintage",
-		"sublime-symfony"
+		"sublime-symfony",
+		"SymfonyCommander",
+		"ZenCoding",
+		"Prefixr"
 	],
 	"remember_open_files": false,
 	"translate_tabs_to_spaces": true,
