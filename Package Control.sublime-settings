@@ -3,6 +3,8 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"CSSLint",
+		"Djaneiro",
 		"DocBlockr",
 		"Emmet",
 		"Gist",
@@ -16,13 +18,13 @@
 		"PHPUnit Completions",
 		"PlainTasks",
 		"Prefixr",
+		"RubyTest",
 		"SideBarEnhancements",
 		"sublime-symfony",
 		"SublimeLinter",
 		"Symfony2 Snippets",
 		"SymfonyCommander",
 		"Twig",
-		"Xdebug",
 		"Xdebug Client",
 		"ZenCoding"
 	]
