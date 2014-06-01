@@ -1,5 +1,9 @@
 {
 	"auto_upgrade_last_run": null,
+	"channels":
+	[
+		"https://sublime.wbond.net/channel.json"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -17,15 +21,11 @@
 		"PHP-Twig",
 		"PHPUnit Completions",
 		"PlainTasks",
-		"Prefixr",
 		"RubyTest",
 		"SideBarEnhancements",
-		"sublime-symfony",
 		"SublimeLinter",
 		"Symfony2 Snippets",
-		"SymfonyCommander",
 		"Twig",
-		"Xdebug Client",
-		"ZenCoding"
+		"Xdebug Client"
 	]
 }
